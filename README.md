@@ -1,6 +1,6 @@
 ### Hi, I'm Tarm
 
-First-year Computer Science student at SJTU Global College in Shanghai. I build web apps, backend services and developer tools, and I mix live sound.
+First-year Computer Science student at SJTU Global College in Shanghai. I build web apps, backend services and developer tools.
 
 **Things I've built**
 
