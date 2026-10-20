@@ -6,6 +6,7 @@ First-year Computer Science student at SJTU Global College in Shanghai. I build 
 
 | | |
 |---|---|
+| [Pulse](https://tarmk.github.io/pulse/) | Self-hosted monitoring for Linux servers: a zero-dependency agent, SQLite history, and an alert engine with flap protection and disk-full forecasts · Python, FastAPI, SQLite · [code](https://github.com/Tarmk/pulse) |
 | [ThaiTune](https://thaitune.com) | Platform for composing and sharing traditional Thai music scores · Next.js, Firebase · [code](https://github.com/Tarmk/Thai-Tune) |
 | [Squash Referee](https://squash-ref.vercel.app) | Scoring, serve tracking and tournament registration for squash referees, with match transcripts · Next.js, Firebase · [code](https://github.com/Tarmk/SquashRef) |
 | [Past Papers Archive](https://al-papers.vercel.app) | A-Level past papers with mark schemes, plus about 8,900 questions sorted by topic into printable practice sheets · React, Vite · [code](https://github.com/Tarmk/ALPapers) |
